@@ -65,12 +65,14 @@ https://me7vmk6fcl.execute-api.us-east-2.amazonaws.com/prod
 ---
 
 ## Screenshots
-(Add your Postman screenshots and DynamoDB table screenshots here.)
+
+<img width="1850" height="950" alt="01" src="https://github.com/user-attachments/assets/9724437a-ce6d-4f2d-9427-80f1aaf5ca1c" />
 
 ---
+<img width="1870" height="956" alt="02" src="https://github.com/user-attachments/assets/623d138b-57cc-4500-8905-fab8129700fa" />
 
 ## Author
 - Abdulwahab Hussein  
 Associate Degree in Cloud Networking Technology  
-AWS Certified Solutions Architect – Associate
+
 
